@@ -1,7 +1,7 @@
 {
   "name": "publish-decorator",
   "version": "0.0.3",
-  "description": "Make classes or methods accessible globally",
+  "description": "@publish decorator makes classes and/or methods accessible globally",
   "main": "index.js",
   "scripts": {
     "compile": "babel --presets es2015,stage-1,react -d lib/ src/",
